@@ -16,7 +16,7 @@ extends:
 # grouping of like snippets for dynamic menu creation in panhandler
 labels:
   collection:
-    - ezhi-Prisma-Access-RN
+    - Prisma Access Remote Networks
 
 # ---------------------------------------------------------------------
 # end of preamble section
